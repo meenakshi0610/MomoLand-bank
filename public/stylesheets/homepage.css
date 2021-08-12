@@ -1,0 +1,36 @@
+.bg{
+    background-color: #F2BC85;
+}
+img{
+    height: 80vh;
+    width: 80vw;
+}
+.centered {
+    letter-spacing: 2px;
+    position: absolute;
+    top: 16%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: x-large;
+    text-align: center;
+  }
+.tagline{
+    letter-spacing: 5px;
+    color: darkslategray;
+    font-size: 40px;
+}
+.followups{
+    justify-content: center;
+}
+.btn{
+    margin: 1rem;
+    margin-bottom: 3rem;
+}
+#blockbtn{
+    background-color: #5756DE;
+    border-color: #5756DE;
+}
+#blockbtn:hover{
+    background-color: #E0618F;
+    border-color: #E0618F;
+}

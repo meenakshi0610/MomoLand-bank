@@ -1,0 +1,18 @@
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    justify-content: center;
+    height: auto;
+    text-align: center;
+    text-decoration: none;
+    margin: 3px;
+    color: black;
+  }
+  .fa:hover{
+    font-weight: 1000;
+    font-size: 125%;
+    color: black;
+  }
+  span{
+    color: black;
+  }
